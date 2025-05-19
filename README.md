@@ -3,6 +3,8 @@
 
 "ComfyUI" installation code for "Python-3.13" 
 
+(BAT-file in Release - https://github.com/Nestorchik/ComfyUI_Python_3.13_Windows/releases/download/ComfyUI_python_3.13/install_3.13.bat)
+
 - mkdir c:\Test313
 - cd /D c:\Test313
 - git clone https://github.com/comfyanonymous/ComfyUI.git
