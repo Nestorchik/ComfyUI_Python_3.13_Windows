@@ -6,7 +6,9 @@ Assets in Release
 - https://github.com/Nestorchik/ComfyUI_Python_3.13_Windows/releases/tag/ComfyUI_python_3.13
 
 **Command lines:**
+
 _(Make sure you have "Git" + "UV" + "UV CPython 3.13" installed)_
+
 - mkdir c:\Test313
 - cd /D c:\Test313
 - git clone https://github.com/comfyanonymous/ComfyUI.git
