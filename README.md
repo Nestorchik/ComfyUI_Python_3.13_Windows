@@ -29,4 +29,8 @@ Assets in Release
 **Start & generation Log:**
 ![image](https://github.com/user-attachments/assets/72ff39a5-5a18-43e5-bda3-73223e2d1320)
 
+Look articles:
+- https://dzen.ru/a/aCj-mpJC5h243HWE
+- https://dzen.ru/a/aCsQ2sSdLymkoc4c
+
 
