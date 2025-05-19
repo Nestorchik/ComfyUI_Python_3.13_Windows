@@ -1,6 +1,4 @@
 # "ComfyUI" + Python 3.13 + Windows
-"ComfuUI" + Python 3.13 + Windows
-
 "ComfyUI" installation code for "Python-3.13" 
 
 Assets in Release 
