@@ -16,3 +16,11 @@
 - uv pip install -r c:\Test\ComfyUI\requirements.txt
 - uv run c:\Test313\ComfyUI\main.py --windows-standalone-build --front-end-version Comfy-Org/ComfyUI_frontend@latest
 - pause
+
+**Install Log:**
+![image](https://github.com/user-attachments/assets/49de38fe-ee25-4712-b40e-8f6ad59a48fa)
+
+**Start & generation Log:**
+![image](https://github.com/user-attachments/assets/72ff39a5-5a18-43e5-bda3-73223e2d1320)
+
+
