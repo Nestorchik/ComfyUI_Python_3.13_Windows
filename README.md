@@ -1,5 +1,5 @@
 # "ComfyUI" + Python 3.13 + Windows
-"ComfyUI" installation code for "Python-3.13" 
+"ComfyUI" installation commands for "Python 3.13" 
 
 Assets in Release 
 - https://github.com/Nestorchik/ComfyUI_Python_3.13_Windows/releases/download/ComfyUI_python_3.13/install_3.13.bat
